@@ -9,9 +9,9 @@
 
 ### 📚 Currently Learning  
 
-🚀 **Leveling up my backend skills with:**
+🎯 **Leveling up my backend skills with:**
 
-- 🖤 **C#** — Deep diving into object-oriented programming and clean code practices  
+- 💻 **C#** — Deep diving into object-oriented programming and clean code practices  
 - 🌐 **.NET & ASP.NET** — Building scalable APIs and robust web applications  
 - 🗄️ **SQL Server** — Mastering database design, queries, and optimization  
 
